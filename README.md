@@ -44,9 +44,8 @@ WEBSITES :
    https://circuitdigest.com/microcontroller-projects/designing-of-ram-in-vhdl-using-modelsim
 
 YouTube LINKS:
-    https://youtu.be/thPnGx-PSk4?si=BbNndQhxDAz0EPa8 (AND OTHER VIDEOS OF SAME CHANNEL)
-    https://youtu.be/d6BA_Q3WMbQ?si=TuRNQi8P9TmYP7wK
-    https://youtu.be/-aQOv3T7P8E?si=m0OeLCV54HC1gOjl
+    https://youtu.be/7f50sQYjNRA?si=vnI8ZsWt9ndrR_92]
+    https://youtu.be/a--rNdqtwCI?si=JeWZYLlKhMoV13rp
     
 AI USED :
     CHAT GPT
